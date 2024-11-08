@@ -22,6 +22,6 @@ class Student:
             print("Grade: F")
 
 
-s = Student("John", 20, 85)
-s.display()
-s.grade()
+s1 = Student("John", 20, 85)
+s1.display()
+s1.grade()
